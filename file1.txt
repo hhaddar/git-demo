@@ -1,2 +1,3 @@
 Nouveau fichier file1. Aussi, il est modifié dans la branche branch1
 
+Une nouvelle ligne vient d'être ajoutée dans la branche2.
