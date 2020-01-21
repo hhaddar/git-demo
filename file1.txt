@@ -1,1 +1,1 @@
-Nouveau fichier file1
+Nouveau fichier file1. Aussi, il est modifié dans la branche branch1
