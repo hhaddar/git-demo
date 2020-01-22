@@ -1,7 +1,6 @@
-
-
-Cette ligne est remplacée encore une fois dans la branche master.
-Ajout d'une nouvelle ligne dans la branche master.
-kgmdjsfmkjdsqgfmkdsqjgmdsqgds. Je suis dans la branche master. Elle est modifiée dans la branche master.
+ Elle est modifiée dans la branche master.
+ le fichier est modifié dans la branche master.
+ 
+ Voir 
 
 
