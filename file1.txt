@@ -1,6 +1,10 @@
+
  Elle est modifiée dans la branche master.
  le fichier est modifié dans la branche master.
  
  Voir 
+
+La ligne est modifiée dans la branche BR-3.
+Je suis dans la branche BR-1. Elle est modifiée dans la branche BR-3.
 
 
